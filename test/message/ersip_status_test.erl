@@ -59,6 +59,7 @@ reason_text_test() ->
     test_phrase(416, "Unsupported URI Scheme"),
     test_phrase(420, "Bad Extension"),
     test_phrase(421, "Extension Required"),
+    test_phrase(422, "Session Interval Too Small"),
     test_phrase(423, "Interval Too Brief"),
     test_phrase(480, "Temporarily Unavailable"),
     test_phrase(481, "Call/Transaction Does Not Exist"),

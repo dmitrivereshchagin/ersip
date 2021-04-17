@@ -69,6 +69,10 @@ RFC supported in this SIP stack:
       - 8.2.3. "Subscription-State" Header Field
   + RFC 3891 The Session Initiation Protocol (SIP) "Replaces" Header (header only)
       - 6.1. The Replaces Header
+  + RFC 4028 Session Timers in the Session Initiation Protocol (SIP) (headers/422 response)
+      - 4 Session-Expires Header Field Definition
+      - 5 Min-SE Header Field Definition
+      - 6 422 Response Code Definition
 
 ## License
 
